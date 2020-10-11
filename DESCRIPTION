@@ -11,5 +11,9 @@ LazyData: true
 Depends:
     R (>= 3.0)
 Imports:
+    alfred,
+    dplyr,
+    magrittr
 URL: https://github.com/cmhein/alfredx
 BugReports: https://github.com/cmhein/alfredx/issues
+RoxygenNote: 7.1.1
