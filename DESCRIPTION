@@ -1,0 +1,15 @@
+Package: alfredx
+Title: alfredx R Package Extension
+Version: 0.1.0
+Authors@R:
+    person("Chris", "Hein", email = "cmhein00@gmail.com",
+        role = c("aut", "cre"))
+Description: alfredx R package extension.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 3.0)
+Imports:
+URL: https://github.com/cmhein/alfredx
+BugReports: https://github.com/cmhein/alfredx/issues
